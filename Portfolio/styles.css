@@ -1,0 +1,12 @@
+.section{
+    height: 100vh;
+}
+
+.white-bg {
+    background-color: white;
+
+}
+
+.black-bg {
+    background-color: rgb(17, 17, 17);
+}
